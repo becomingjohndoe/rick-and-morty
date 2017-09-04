@@ -45,12 +45,23 @@ section{
     margin: 10px 0;
 }
 
-section .article-box{
+.article-box{
     background-color: #ffffff;
     border: 1px solid #ffffff;
     border-radius: 10px;
 }
 
-section .article-box h2{
+.article-box h2{
     text-align: center;
+    color: #00afc7;
+    text-shadow:
+    -1px -1px 0 #c9df4e,
+    1px -1px 0 #c9df4e,
+    -1px 1px 0 #c9df4e,
+    1px 1px 0 #c9df4e;
+}
+
+.article-box img{
+    width: 200px;
+    margin-right: 20px;
 }
