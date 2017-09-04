@@ -50,3 +50,7 @@ section .article-box{
     border: 1px solid #ffffff;
     border-radius: 10px;
 }
+
+section .article-box h2{
+    text-align: center;
+}
