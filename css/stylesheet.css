@@ -65,3 +65,11 @@ section{
     width: 200px;
     margin-right: 20px;
 }
+
+.article-box .character-box{
+    margin: 10px 0;
+}
+
+.article-box .img-characters{
+    width: 150px;
+}
