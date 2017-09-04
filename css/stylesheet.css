@@ -1,0 +1,52 @@
+body{
+    background: url(../img/rick-and-morty-portal.jpg) top center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+.navbar .navbar-brand{
+    color: #ffffff;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.navbar ul li a:link{
+    text-decoration: none;
+    color: #ffffff;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.navbar ul li a:hover,
+.navbar ul li a:focus{
+    background-color: transparent;
+}
+
+
+header{
+    background-color: transparent;
+}
+
+header img{
+    display: block;
+    margin: 0 auto;
+    padding-top: 50px;
+
+}
+
+section{
+    margin: 10px 0;
+}
+
+section .article-box{
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+}
