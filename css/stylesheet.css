@@ -8,6 +8,11 @@ body.rick-and-morty{
     background-attachment: fixed;
 }
 
+body.pickle-rick{
+    background: url(../img/pickle-rick.jpg);
+    background-attachment: fixed;
+}
+
 /*******************************************************/
 
 /*******************************************************/
